@@ -1,0 +1,4 @@
+aiofiles>=23.1.0
+aiopath>=0.6.11
+requests>=2.31.0
+matplotlib>=3.7.0
